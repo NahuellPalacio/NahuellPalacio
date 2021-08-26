@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NahuellPalacio
-- 👀 I’m interested in developer software.
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in software developer
+- 🌱 I’m currently learning análisis en sistemas
 - 📫 How to reach me nahuaguspalacio70@gmail.com
 
 <!---
